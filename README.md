@@ -1,2 +1,2 @@
 # manu
-this's a test repository for lazygit
+a neovim config file 
